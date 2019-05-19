@@ -1,5 +1,8 @@
 # Jockey-Docs
 
+> Invite Jockey! Click [here](https://discordapp.com/api/oauth2/authorize?client_id=560187093498986497&permissions=8&scope=bot)
+
+>Visit Jockey's Server! Click [here](https://invite.gg/hht)
 
 Jockey is an lightweight musicbot for Discord. It was written in python using [Discord.py](https://discordpy.readthedocs.io/en/rewrite/). It can stream music from sites like youtube straight to your Discord voice channels and helps you create a more chill atmosphere while enjoying your favourite games.
 
